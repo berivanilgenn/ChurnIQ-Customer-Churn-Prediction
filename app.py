@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 st.set_page_config(
     page_title="ChurnIQ | Customer Intelligence",
-    page_icon="💜",
+    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -522,7 +522,7 @@ if "activity" not in st.session_state:
 # ============================================================
 
 with st.sidebar:
-    st.markdown("## 💜 ChurnIQ")
+    st.markdown("## ChurnIQ")
     st.caption("Customer retention intelligence")
     st.divider()
 
