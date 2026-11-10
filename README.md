@@ -1,5 +1,5 @@
 
-# 💜 ChurnIQ — Customer Churn Prediction
+#  ChurnIQ — Customer Churn Prediction
 
 ### AI-Powered Customer Retention Intelligence
 
